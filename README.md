@@ -5,9 +5,7 @@
     <title>My First HTML Page</title>
 </head>
 <body
-    <h1>
-        "Welcome to My First HTML Page"
-    </h1>
+    <h1>Welcome to My First HTML Page</h1>
     <p>
         "IT 2310 - Web Programming is a course where we will explore the fundamentals of web development, including HTML, CSS, and JavaScript. We will Build web pages using current technologies including Cascading Style Sheets.
          The course is online and asynchronous, allowing students to learn at their own pace while engaging with interactive content and assignments."
