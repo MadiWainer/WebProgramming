@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"></html>
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8"/>
     <title>My First HTML Page</title>
 </head>
 <body
