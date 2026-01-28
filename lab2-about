@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lab 2 - About</title>
+    </head>
+    <body>
+        <h1>About Lab 2</h1>
+        <p>This is a simple HTML page for Lab 2. Lab 2 hones in on HTML fundamentals. Focusing on the structure and semantics of HTML elements.</p>
+        <table>
+            <tr>
+                <th colspan="2">Navigation</th>
+            </tr>
+            <tr>
+                <td><a href="lab2-home.html">Home</a></td>
+                <td><a href="mailto:s01293350@tri-c.edu">Email</a></td>
+            </tr>
+        </table>
+    </body>
+</html>
