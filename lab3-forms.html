@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab 3 Forms</title>
+</head>
+
+<body>
+    <h1>Coffee Order Form</h1>
+    <form action="https://www.w3schools.com/action_page.php" method="get">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="coffee type">Coffee Type:</label>
+        <select id="coffee type" name="coffee type">
+            <option value="espresso">Espresso</option>
+            <option value="cappuccino">Cappuccino</option>
+            <option value="latte">Latte</option>
+        </select><br><br>
+        <label for="size">Size:</label>
+        <input type="radio" id="small" name="size" value="small">
+        <label for="small">Small</label>
+        <input type="radio" id="medium" name="size" value="medium">
+        <label for="medium">Medium</label>
+        <input type="radio" id="large" name="size" value="large">
+        <label for="large">Large</label><br><br>
+
+        <label for="extras">Extras:</label><br>
+        <input type="checkbox" id="extra shot" name="extras" value="extra shot">
+        <label for="extra shot">Extra Shot</label><br>
+        <input type="checkbox" id="Almond Milk" name="extras" value="almond milk">
+        <label for="Almond Milk">Almond Milk</label><br>
+        <input type="checkbox" id="whipped cream" name="extras" value="whipped cream">
+        <label for="whipped cream">Whipped Cream</label><br>
+
+        <label for="comments">Additional Comments:</label><br>
+        <textarea id="comments" name="comments" rows="4" cols="50"></textarea><br><br>
+
+        <input type="submit" value="Submit Order">
+    </form>
+</body>
+
+</html>
+
